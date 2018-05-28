@@ -13,10 +13,14 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var datepicker = document.querySelectorAll('.datepicker')
+
+  // eslint-disable-next-line
   M.Datepicker.init(datepicker)
 
-  var select = document.querySelectorAll('select');
-  var instances = M.FormSelect.init(select);
+  var select = document.querySelectorAll('select')
+
+  // eslint-disable-next-line
+  M.FormSelect.init(select)
 })
 
 export default {
