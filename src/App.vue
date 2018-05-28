@@ -4,9 +4,9 @@
       <div class="nav-wrapper">
         <a href="#/" class="brand-logo">exhibitions matching</a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li><a href="sass.html">A</a></li>
-          <li><a href="badges.html">B</a></li>
-          <li><a href="collapsible.html">C</a></li>
+          <li><a>A</a></li>
+          <li><a>B</a></li>
+          <li><a>C</a></li>
         </ul>
       </div>
     </nav>

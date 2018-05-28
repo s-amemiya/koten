@@ -1,6 +1,6 @@
 <template>
   <div>
-    <a>場所は？</a>
+    <a>場所</a>
     <select>
       <option value="tokyo">東京</option>
       <option value="saitama">埼玉</option>
